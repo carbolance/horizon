@@ -482,6 +482,7 @@
       "block_order": [
         "text_DQybeV"
       ],
+      "disabled": true,
       "name": "Collection list: Carousel",
       "settings": {
         "collection_list": [],
@@ -505,6 +506,7 @@
     },
     "divider_J8KJDe": {
       "type": "divider",
+      "disabled": true,
       "name": "t:names.divider_section",
       "settings": {
         "color_scheme": "",
@@ -751,7 +753,7 @@
       },
       "name": "Product list: Carousel",
       "settings": {
-        "collection": "",
+        "collection": "active-classics",
         "layout_type": "carousel",
         "carousel_on_mobile": false,
         "max_products": 16,
@@ -857,6 +859,7 @@
           "block_order": []
         }
       },
+      "disabled": true,
       "name": "Product highlight",
       "settings": {
         "product": "carry-on-copy",
@@ -1130,6 +1133,7 @@
         "video_P4VjxB",
         "group_3EtyqY"
       ],
+      "disabled": true,
       "name": "Video",
       "settings": {
         "content_direction": "column",
@@ -1161,6 +1165,7 @@
     },
     "divider_ctiwfU": {
       "type": "divider",
+      "disabled": true,
       "name": "t:names.divider_section",
       "settings": {
         "color_scheme": "",
@@ -1467,6 +1472,7 @@
     },
     "divider_Gjkiar": {
       "type": "divider",
+      "disabled": true,
       "name": "t:names.divider_section",
       "settings": {
         "color_scheme": "",
@@ -1524,7 +1530,7 @@
             "icon_ckAynT": {
               "type": "icon",
               "settings": {
-                "icon": "eye",
+                "icon": "plant",
                 "width": 32,
                 "link": "",
                 "open_in_new_tab": false
@@ -1573,7 +1579,7 @@
                 "text_cK4ktc": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Made with care</h2>",
+                    "text": "<h2>Inspired by Nature</h2>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1598,7 +1604,7 @@
                 "text_yV4Eck": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>We believe in building better</p>",
+                    "text": "<p>Our Heritage</p>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "center",
@@ -1674,7 +1680,7 @@
             "icon_Df8V6y": {
               "type": "icon",
               "settings": {
-                "icon": "heart",
+                "icon": "shirt",
                 "width": 32,
                 "link": "",
                 "open_in_new_tab": false
@@ -1723,7 +1729,7 @@
                 "text_kV3b7T": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Made with care</h2>",
+                    "text": "<h2>Sustainable Materials</h2>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "center",
@@ -1748,7 +1754,7 @@
                 "text_jWfFkh": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>We believe in building better</p>",
+                    "text": "<p>Our Legacy</p>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "center",
@@ -1824,7 +1830,7 @@
             "icon_kHrFiN": {
               "type": "icon",
               "settings": {
-                "icon": "silhouette",
+                "icon": "eye",
                 "width": 32,
                 "link": "",
                 "open_in_new_tab": false
@@ -1873,7 +1879,7 @@
                 "text_jYWPLh": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Real people making great products</h2>",
+                    "text": "<h2>Focused on People</h2>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "center",
@@ -1898,7 +1904,7 @@
                 "text_iLd83M": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Real people, great products</p>",
+                    "text": "<p>Our Neighbors</p>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "center",
@@ -1951,7 +1957,7 @@
         "section_width": "page-width",
         "section_height": "",
         "section_height_custom": 50,
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "background_media": "none",
         "video_position": "cover",
         "background_image_position": "cover",
