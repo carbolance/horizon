@@ -38,7 +38,7 @@ Coding standards and guidelines are in `.cursor/rules/`. **Read the relevant rul
 | Templates (`templates/*.liquid`) | `templates.mdc` |
 | JavaScript (`assets/*.js`) | `javascript-standards.mdc`, `assets.mdc` |
 | CSS (`assets/*.css`) | `css-standards.mdc`, `assets.mdc` |
-| Locales (`locales/*.json`) | `locales.mdc`, `localization.mdc` |
+| Locales (`locales/*`) | `locales.mdc`, `localization.mdc` |
 | Theme settings | `theme-settings.mdc` |
 
 ## Accessibility Rules
